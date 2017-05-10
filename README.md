@@ -1,6 +1,6 @@
 # Workshop: Rompiendo el Mundo Binario con Vue.js
 
-> Vue.js se posiciona como una de las alternativas mas prometedoras en el mundo MV*
+> 👨‍🏫 Vue.js se posiciona como una de las alternativas mas prometedoras en el mundo MV*
 peleando con gigantes de la industria como React y Angular 2 (combinando lo mejor de cada uno).
 Voy a mostrarte la simpleza y el poder de este framework y
 te prometo que vas a querer usarlo en tu proximo proyecto
