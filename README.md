@@ -27,5 +27,9 @@
   * [Template Strings](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/template_strings)
   * [Promises](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise)
 
+## Licencia
+[Licencia MIT](https://github.com/ndelvalle/workshop-vuejs/blob/master/LICENSE)
+
 ___
-## [Slides](http://bit.ly/2pUh1kU)
+### [Slides](http://bit.ly/2pUh1kU)
+###
