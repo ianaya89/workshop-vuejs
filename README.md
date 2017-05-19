@@ -24,7 +24,7 @@
 
 * Cualquier editor de texto (Recomiendo [Atom](https://atom.io/) con el plugin vue-language)
 * [Node.js](https://nodejs.org/en/) (y npm)
-* Conocimiento basico de JavaScript (`for`, `if`, objetos, arreglos, funciones, ajax)
+* Conocimiento basico de JavaScript (`for`, `if`, `object`, 'array', 'functions', ajax)
 * Conocimeinto basico de HTML y CSS
 * No se requiere conocimiento de ES2015 pero se recomiendan estos links:
   * [Method Definitions](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/funciónes/Method_definitions)
