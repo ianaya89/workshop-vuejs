@@ -1,0 +1,23 @@
+{
+  "name": "workshop-vuejs",
+  "version": "1.0.0",
+  "description": "Workshop Vue.js: Breaking the Binary World!",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./slides -p 3131 -o "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianaya89/workshop-vuejs.git"
+  },
+  "keywords": [
+    "vue",
+    "workshop"
+  ],
+  "author": "Ignacio Anaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ianaya89/workshop-vuejs/issues"
+  },
+  "homepage": "https://github.com/ianaya89/workshop-vuejs#readme"
+}
