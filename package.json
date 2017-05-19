@@ -4,7 +4,7 @@
   "description": "Workshop Vue.js: Breaking the Binary World!",
   "main": "index.js",
   "scripts": {
-    "start": "http-server ./slides -p 3131 -o "
+    "start": "http-server ./docs -p 3131 -o "
   },
   "repository": {
     "type": "git",
