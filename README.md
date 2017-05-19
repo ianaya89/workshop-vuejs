@@ -1,8 +1,8 @@
-🚨 [WIP]
-
 # Workshop: Rompiendo el Mundo Binario con Vue.js
 
-> 👨‍🏫 Vue.js se posiciona como una de las alternativas mas prometedoras en el mundo MV* peleando con gigantes de la industria como React y Angular 2. Voy a mostrarte la simpleza y el poder de este framework que combina lo mejor de los 2 mundos. Te prometo que vas a querer usarlo en tu proximo proyecto!
+> 👨‍🏫 Vue.js se posiciona como una de las alternativas mas prometedoras en el mundo MV* peleando con gigantes de la industria como React y Angular 2. Voy a mostrarte la simpleza y el poder de este framework que combina lo mejor de los 2 mundos. Seguro que vas a querer usarlo en tu proximo proyecto!
+
+![vue](../docs/img/logo.png)
 
 ## Materiales
 ### [Slides](http://bit.ly/2pUh1kU)
