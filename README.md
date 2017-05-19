@@ -12,13 +12,13 @@
 
 ## Temas
 
-1. Introduccion a Vue.js
-2. Generar aplicaciónes con vue-cli
-3. Breve introduccion a Babel y Webpack
-4. Manipulacion del DOM
+1. Introducción a [Vue.js](https://vuejs.org/)
+2. Generar aplicaciones con [vue-cli](https://github.com/vuejs/vue-cli)
+3. Breve introducción a [Babel](http://babeljs.io/) y [Webpack](https://webpack.js.org/)
+4. Manipulación del DOM
 5. Data Binding
 6. Sistema de Componentes
-7. Estructurar aplicaciónes
+7. Estructurar Aplicaciones
 
 ## Requisitos
 
