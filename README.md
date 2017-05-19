@@ -7,12 +7,12 @@
 ### Temas:
 
 * Introduccion a Vue.js
-* Generar aplicaciones con vue-cli
+* Generar aplicaciónes con vue-cli
 * Breve introduccion a Babel y Webpack
 * Manipulacion del DOM
 * Data Binding
 * Sistema de Componentes
-* Estructurar Aplicaciones
+* Estructurar aplicaciónes
 * Y un poco mas...
 
 ### Requisitos
