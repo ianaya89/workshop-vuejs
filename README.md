@@ -54,3 +54,9 @@
 
 ## Licencia
 [Licencia MIT](https://github.com/ndelvalle/workshop-vuejs/blob/master/LICENSE)
+
+---
+Cualquier consulta, critica, PR o sugerencia es totalmente bienvenida.
+Gracias por acompañarme en este Workshop!
+
+**✍️ with ❤️ by [@ianaya89](https://twitter.com)**
