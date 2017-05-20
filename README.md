@@ -59,4 +59,4 @@
 Cualquier consulta, critica, PR o sugerencia es totalmente bienvenida.
 Gracias por acompañarme en este Workshop!
 
-**✍️ with ❤️ by [@ianaya89](https://twitter.com)**
+**✍️ with ❤️ by [@ianaya89](https://twitter.com/ianaya89)**
