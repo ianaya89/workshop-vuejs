@@ -7,7 +7,7 @@
 </p>
 
 ## Materiales
-* [Slides](http://bit.ly/2pUh1kU)
+* [Slides](https://ianaya89.github.io/workshop-vuejs)
 * [Proyecto Vuetify](https://github.com/ianaya89/vuetify)
 
 ## Temas
