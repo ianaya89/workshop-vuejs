@@ -50,6 +50,7 @@
 14. 🕓 [Hora de Refactorizar](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/14.md)
 15. 🐛 [Debugging](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/15.md)
 16. 🍞 [Toaster](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/16.md)
+16. 🔚 [Vue Next](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/17.md)
 
 ## Licencia
 [Licencia MIT](https://github.com/ndelvalle/workshop-vuejs/blob/master/LICENSE)
