@@ -49,6 +49,7 @@
 13. ♻️ [Ciclo de Vida](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/13.md)
 14. 🕓 [Hora de Refactorizar](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/14.md)
 15. 🐛 [Debugging](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/15.md)
+16. 🍞 [Toaster](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/16.md)
 
 ## Licencia
 [Licencia MIT](https://github.com/ndelvalle/workshop-vuejs/blob/master/LICENSE)
