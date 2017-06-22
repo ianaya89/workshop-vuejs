@@ -51,8 +51,8 @@
 15. 🐛 [Debugging](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/15.md)
 16. 🍞 [Toaster](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/16.md)
 17. 🚬 [Filters](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/17.md)
-18. 🏗 Custom Directives ⚠️[WIP]
-19. 🔚 [Vue Next](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/18.md))
+18. 🏗 Custom Directives **⚠️ [WIP]**
+19. 🔚 [Vue Next](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/18.md)
 
 ## Licencia
 [Licencia MIT](https://github.com/ndelvalle/workshop-vuejs/blob/master/LICENSE)
