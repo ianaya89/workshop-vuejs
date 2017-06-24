@@ -8,7 +8,7 @@
 
 ## Materiales
 * [Slides](https://ianaya89.github.io/workshop-vuejs)
-* [Proyecto Vuetify](https://github.com/ianaya89/vuetify)
+* [Proyecto vue-music](https://github.com/ianaya89/vue-music)
 
 ## Temas
 
