@@ -3,7 +3,7 @@
 > 👨‍🏫🇪🇸 Vue.js se posiciona como una de las alternativas mas prometedoras en el mundo MV* peleando con gigantes de la industria como React y Angular 2. Voy a mostrarte la simpleza y el poder de este framework que combina lo mejor de los 2 mundos. Seguro que vas a querer usarlo en tu proximo proyecto!
 
 <p align="center">
- <img src="docs/img/logo.png" alt="vue">
+ <img src="docs/img/logo-emoji.png" alt="vue">
 </p>
 
 ## Materiales
