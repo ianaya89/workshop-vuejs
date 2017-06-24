@@ -41,7 +41,7 @@
 5. 👨‍🎓 [Vue Avanzado](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/05.md)
 6. 🖥 [CLI](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/06.md)
 7. 👷 [Arquitectura](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/07.md)
-8. 📻 [Vuetify](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/08.md)
+8. 📻 [vue-music](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/08.md)
 9. 🔎 [Search Component](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/09.md)
 10. 🚀 [Servicios + Componentes](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/10.md)
 11. 🎚 *[Modifiers](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/11.md)*
