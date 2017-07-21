@@ -9,8 +9,9 @@
 </p>
 
 ## Materiales
-* [Slides](https://ianaya89.github.io/workshop-vuejs)
-* [Proyecto vue-music](https://github.com/ianaya89/vue-music)
+* 📽 [Slides](https://ianaya89.github.io/workshop-vuejs)
+* 📻 [Proyecto vue-music](https://github.com/ianaya89/vue-music)
+* 📚 [Git Book](https://ianaya89.gitbooks.io/rompiendo-el-mundo-binario-con-vue-js)
 
 ## Temas
 
@@ -57,10 +58,10 @@
 19. 🔚 [Vue Next](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/18.md)
 
 ## Licencia
-[Licencia MIT](https://github.com/ndelvalle/workshop-vuejs/blob/master/LICENSE)
+📄 [Licencia MIT](https://github.com/ndelvalle/workshop-vuejs/blob/master/LICENSE)
 
 ---
-Cualquier consulta, critica, PR o sugerencia es totalmente bienvenida.
-Gracias por acompañarme en este Workshop!
+*Cualquier consulta, critica, PR o sugerencia es totalmente bienvenida.
+Gracias por acompañarme en este Workshop!*
 
 **✍️ with ❤️ by [@ianaya89](https://twitter.com/ianaya89)**
