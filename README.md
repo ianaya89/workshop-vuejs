@@ -25,7 +25,7 @@
 
 ## Requisitos
 
-* Cualquier editor de texto (Recomiendo [Atom](https://atom.io/) con el plugin vue-language)
+* Cualquier editor de texto (Recomiendo [Visual Studio Code](https://code.visualstudio.com/) con el plugin [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur))
 * [Node.js](https://nodejs.org/en/) (y npm)
 * Conocimiento basico de JavaScript (`for`, `if`, `object`, `array`, `functions` y `ajax`)
 * Conocimeinto basico de HTML y CSS
