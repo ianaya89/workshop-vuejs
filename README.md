@@ -28,7 +28,7 @@
 * Cualquier editor de texto (Recomiendo [Visual Studio Code](https://code.visualstudio.com/) con el plugin [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur))
 * [Node.js](https://nodejs.org/en/) (y npm)
 * Conocimiento basico de JavaScript (`for`, `if`, `object`, `array`, `functions` y `ajax`)
-* Conocimeinto basico de HTML y CSS
+* Conocimiento basico de HTML y CSS
 * No se requiere conocimiento de ES2015 pero se recomiendan estos links:
   * [Method Definitions](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/funciónes/Method_definitions)
   * [Shorthand Properties](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Object_initializer)
