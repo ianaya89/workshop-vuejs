@@ -2,7 +2,7 @@
 
 > 👨‍🏫👩‍🏫🇪🇸 Vue.js es una de las mejores alternativas en el mundo MV* peleando con gigantes de la industria como React y Angular. En este workshop vas a aprender la simpleza y el poder de este framework que combina lo mejor de ambos mundos. Te voy a enseñar las bases del framework progresivo que te permite crear aplicaciones simples o complejas de manera muy fácil.
 
-> 🚨 Esta es una nueva version del workshop, podes mirar la version anterior en este [link](https://github.com/ianaya89/workshop-vuejs/tree/v1.0.0)
+> 🚨 Esta es una nueva version del workshop, podes mirar la version anterior en este [link](https://github.com/ianaya89/workshop-vuejs/tree/v1.0.0).
 
 
 <p align="center">
@@ -11,8 +11,8 @@
 
 ## Materiales
 * 📽 [Slides](https://github.com/ianaya89/workshop-vuejs/tree/master/slides)
-* 📻 [Proyecto vue-coins](https://github.com/ianaya89/vue-coins)
-* 📻 [Colección Codepen](https://codepen.io/collection/nVzyOE)
+* 💸 [Proyecto vue-coins](https://github.com/ianaya89/vue-coins)
+* ✏ [Colección Codepen](https://codepen.io/collection/nVzyOE)
 
 ## Temas
 
