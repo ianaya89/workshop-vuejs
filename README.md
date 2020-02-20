@@ -14,6 +14,7 @@
 * 💸 [Proyecto vue-coins](https://github.com/ianaya89/vue-coins)
 * ✏ [Colección Codepen](https://codepen.io/collection/nVzyOE)
 * 🔌 [Plugin CLI](https://github.com/ianaya89/vue-cli-plugin-workshop) (Usado en el Proyecto)
+* 📹 [Version en Video](https://www.youtube.com/watch?v=Nl9goroCCzg) ([asaditojs](https://twitter.com/asaditojs))
 
 ## Temas
 
