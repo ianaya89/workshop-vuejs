@@ -13,6 +13,7 @@
 * 📽 [Slides](https://github.com/ianaya89/workshop-vuejs/tree/master/slides)
 * 💸 [Proyecto vue-coins](https://github.com/ianaya89/vue-coins)
 * ✏ [Colección Codepen](https://codepen.io/collection/nVzyOE)
+* 🔌 [Plugin CLI](https://github.com/ianaya89/vue-cli-plugin-workshop) (Usado en el Proyecto)
 
 ## Temas
 
@@ -51,8 +52,8 @@
 11. 👀 *[Computed & Watch](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/11.md)*
 12. 🐛 [Debugging](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/12.md)
 13. ☎ [Comunicacion de Componentes](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/13.md) [⚠️ WIP]
-14. 🎚 [Modifiers](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/12.md) [⚠️ WIP]
-15. 🔚 [Vue Next](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/13.md)
+14. 🎚 [Modifiers](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/14.md) [⚠️ WIP]
+15. 🔚 [Vue Next](https://github.com/ianaya89/workshop-vuejs/blob/master/ex/15.md)
 
 ## Licencia
 📄 [Licencia MIT](https://github.com/ndelvalle/workshop-vuejs/blob/master/LICENSE)
