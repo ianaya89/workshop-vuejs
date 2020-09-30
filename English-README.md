@@ -1,0 +1,1 @@
+Vue.js is one of the best alternatives in the world MV * playing with gigantes of the industry like React and Angular. In this workshop we will learn the simplicity and the ability of this framework to combine the best of both worlds. I want to teach you the basics of a progressive framework that allows you to create simple applications or manipulations very easily.
